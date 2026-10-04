@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a sophomore at the University of Texas at Austin studying **Informatics** with a concentration in **Human-Centered Data Science** and a minor in **Entrepreneurship**.
+I'm a student at the University of Texas at Austin studying **Informatics** with a concentration in **Human-Centered Data Science** and a minor in **Entrepreneurship**.
 
 I enjoy working with data, exploring AI, and building technology with the people using it in mind. I'm especially interested in the intersection of **data, technology, and product development**.
 
